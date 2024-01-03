@@ -13,6 +13,7 @@ imageUrl = 'https://image.tmdb.org/t/p/original'
 apiBaseUrl='https://api.themoviedb.org/3'
 
 trending ='https://api.themoviedb.org/3/trending/all/week?api_key={API_KEY_HERE}&language=en-US'
+trending ='https://api.themoviedb.org/3/trending/all/week?api_key=41bf06bcbce3cfa0a8d11f4c4c8c8473&language=en-US'
 
 action ='https://api.themoviedb.org/3/discover/movie?api_key={API_KEY_HERE}&with_genres=28'
 
@@ -30,4 +31,4 @@ Documentaries: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HE
 
 ////////////////////////////////////////////////////////////////////API KEY////////////////////////////////////////////////////////////////////////////
 
- API_KEY = "YOUR API KEY"
+ API_KEY = "41bf06bcbce3cfa0a8d11f4c4c8c8473"
